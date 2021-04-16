@@ -1,0 +1,94 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+    justify-content: flex-end;
+    font-family: 'Quicksand', sans-serif;
+}
+.logo {
+    float: left;
+}
+nav {
+    width: 100%;
+    padding: 1%;
+}
+nav a {
+    float: right;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #575555;
+}
+nav a:hover {
+    color: #F24153;
+}
+.active {
+    text-decoration: underline;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+h1 {
+    font-size: 35px;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 10px;
+    font-weight: 600;
+
+} 
+h2 {
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+} 
+.center {
+    text-align: center;
+} 
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+.quote {
+    padding: 15px;
+    font-style: italic;
+    font-weight: 600;
+}
+.banner {
+    background-color: #5C191F;
+    width: 100%;
+    padding: 20px;
+    align-content: center;
+}
+.body {
+    margin: 25px;
+}
+.imageContainer img {
+    width: 100%;
+  }
+  .imageContainer {
+    padding: 10px;
+  }
+  .valueProp {
+    margin-top: 15px;
+    margin-bottom: 25px;
+  }
+
+.footerIcon {
+    padding: 5px;
+}
+footer .card {
+    background-color:#5C191F;
+    border: none;
+}
+h5 {
+    color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+
+}
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+.block {
+    margin-top: 25px;
+}
